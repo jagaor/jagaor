@@ -62,16 +62,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/jagaor/jagaor/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Javier">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Javier&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
